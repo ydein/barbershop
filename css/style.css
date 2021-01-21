@@ -84,6 +84,7 @@ input[type="radio"].visually-hidden {
 	margin-bottom: 75px;
 }
 .inner-page .main-header {
+	min-width: 960px;
 	margin-bottom: 50px;
 	background-color: #000000;
 }
@@ -609,6 +610,7 @@ input[type="radio"].visually-hidden {
 	padding: 60px 0;
 }
 .inner-page .main-footer {
+	min-width: 960px;
 	margin-top: 45px;
 }
 .main-footer .container {
@@ -977,6 +979,7 @@ input[type="radio"].visually-hidden {
 
 	line-height: 24px;
 	text-align: center;
+	white-space: nowrap;
 
 	background-color: #e5e5e5;
 }
